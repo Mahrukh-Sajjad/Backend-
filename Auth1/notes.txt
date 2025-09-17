@@ -1,0 +1,7 @@
+Validation → Is the data in the correct format?
+
+Verification → Is the data real and belongs to the user?
+
+Authentication → Is the user real? (identity check)
+
+Authorization → What is the user allowed to do?
